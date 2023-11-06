@@ -1,0 +1,6 @@
+/mnt/hdd/university/lw5/lw5/obj/Debug/lw5.csproj.AssemblyReference.cache
+/mnt/hdd/university/lw5/lw5/obj/Debug/lw5.csproj.CoreCompileInputs.cache
+/mnt/hdd/university/lw5/lw5/bin/Debug/lw5.exe
+/mnt/hdd/university/lw5/lw5/bin/Debug/lw5.pdb
+/mnt/hdd/university/lw5/lw5/obj/Debug/lw5.exe
+/mnt/hdd/university/lw5/lw5/obj/Debug/lw5.pdb
